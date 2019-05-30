@@ -1,0 +1,5 @@
+name: PlayerLogger
+main: me.bloodmc.playerlogger.PlayerLoggerPlugin
+load: STARTUP
+version: 0.1
+api-version: 1.13
